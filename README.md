@@ -1,4 +1,6 @@
-# 42-ctf
+# 42-ctf (raw... still editing)
+This repository is just to write my line of thought while finding the flags.
+Use it as a way to know more and not just simply put the answer.
 
 #### Crypto
 ###### We need a patern (5 points)
