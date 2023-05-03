@@ -8,6 +8,8 @@
 	<img src="https://img.shields.io/github/last-commit/jotavare/42-ctf?color=%2312bab9&style=flat-square" />
 </p>
 
+# STILL EDITING
+
 This repository is just to write my line of thought while finding the flags.
 Use it as a way to know more and not just simply put the answer.
 
