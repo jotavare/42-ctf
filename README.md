@@ -3,17 +3,23 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/status-ongoing-success?color=%2312bab9&style=flat-square" />
-	<img src="https://img.shields.io/badge/score-42%20%2F%2042-success?color=%2312bab9&style=flat-square" />
-	<img src="https://img.shields.io/github/last-commit/jotavare/42-ctf?color=%2312bab9&style=flat-square" />
+	<a href="#about">About</a> •
+	<a href="#projects">Projects</a> •
+	<a href="#exams">Exams</a> •
+	<a href="#license">License</a>
 </p>
 
+## ABOUT
+
+## CTF
+<div align="center">
 | INTRO | SCORE | STATUS |
 | :---: | :---: | :---: |
 | Ancient Crypto | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
 | My Little Pwn | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
 | Client Side | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
 | It's all here | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
+</div>
 
 This repository is just to write my line of thought while finding the flags.
 Use it as a way to know more and not just simply put the answer.
