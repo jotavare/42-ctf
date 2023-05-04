@@ -17,21 +17,21 @@
 <tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
 <tr><td>
 
-| INTRO | SCORE | STATUS |
+| CTF | POINTS | STATUS |
 | :---: | :---: | :---: |
-| Ancient Crypto | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
-| My Little Pwn | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
-| Client Side | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
-| It's all here | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
+| Ancient Crypto	| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
+| My Little Pwn		| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
+| Client Side		| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
+| It's all here		| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
 
 </td><td>
 
-| INTRO | SCORE | STATUS |
+| CTF | POINTS | STATUS |
 | :---: | :---: | :---: |
-| Ancient Crypto | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
-| My Little Pwn | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
-| Client Side | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
-| It's all here | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
+| l0st			| 10 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| s3cr3t m3ss4g3	| 35 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Ac1dBotn3t		| 70 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| APT 38		| 75 | <img src="https://img.shields.io/badge/waiting-red" /> |
 
 </td></tr> </table>
 
