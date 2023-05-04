@@ -14,7 +14,7 @@
 ## CTF
 <div align="center">
 <table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><th>INTRO</th><th>CRYPTO</th></tr>
 <tr><td>
 
 | CTF | POINTS | STATUS |
