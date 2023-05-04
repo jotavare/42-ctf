@@ -41,7 +41,7 @@
 <tr><th>CRYPTO</th><th>WEB</th></tr>
 <tr><td>
 
-| CTF | POINTS | STATUS |
+| CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
 | We need a pattern		| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
 | Vous n'avez pas les bases	| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
@@ -55,7 +55,7 @@
 
 </td><td>
 
-| CTF | POINTS | STATUS |
+| CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
 | Gallery			| 5 | <img src="https://img.shields.io/badge/waiting-red" /> |
 | Gallery v2			| 5 | <img src="https://img.shields.io/badge/waiting-red" /> |
