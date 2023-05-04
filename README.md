@@ -12,13 +12,16 @@
 ## ABOUT
 
 ## CTF
+
 <div align="center">
+
 | INTRO | SCORE | STATUS |
 | :---: | :---: | :---: |
 | Ancient Crypto | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
 | My Little Pwn | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
 | Client Side | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
 | It's all here | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
+
 </div>
 
 This repository is just to write my line of thought while finding the flags.
