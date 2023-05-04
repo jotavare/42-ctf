@@ -14,11 +14,11 @@
 ## CTF
 <div align="center">
 <table>
-<tr><th>INTRO</th><th>CRYPTO</th></tr>
+<tr><th>INTRO</th><th>FORENSIC</th></tr>
 <tr><td>
 
 | CTF | POINTS | STATUS |
-| :---: | :---: | :---: |
+| :--- | :---: | :---: |
 | Ancient Crypto	| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
 | My Little Pwn		| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
 | Client Side		| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
@@ -27,15 +27,46 @@
 </td><td>
 
 | CTF | POINTS | STATUS |
-| :---: | :---: | :---: |
+| :--- | :---: | :---: |
 | l0st			| 10 | <img src="https://img.shields.io/badge/waiting-red" /> |
 | s3cr3t m3ss4g3	| 35 | <img src="https://img.shields.io/badge/waiting-red" /> |
 | Ac1dBotn3t		| 70 | <img src="https://img.shields.io/badge/waiting-red" /> |
 | APT 38		| 75 | <img src="https://img.shields.io/badge/waiting-red" /> |
 
 </td></tr> </table>
+</div>
 
+<div align="center">
+<table>
+<tr><th>CRYPTO</th><th>WEB</th></tr>
+<tr><td>
 
+| CTF | POINTS | STATUS |
+| :--- | :---: | :---: |
+| We need a pattern		| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
+| Vous n'avez pas les bases	| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
+| Very Short Crypto		| 25 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Triple word			| 70 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Identified author		| 80 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Recycling			| 85 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| To be xor not to be		| 85 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| The fault in our DES		| 90 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Contact support		| 115 | <img src="https://img.shields.io/badge/waiting-red" /> |
+
+</td><td>
+
+| CTF | POINTS | STATUS |
+| :--- | :---: | :---: |
+| Gallery			| 5 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Gallery v2			| 5 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Simple Question of Logic 1	| 5 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Silkway Anonymous Market v1	| 20 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Simple Question of Logic 2	| 40 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| ft_library			| 60 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Simple Question of Logic 3	| 65 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| The Tragic Token Tale		| 75 | <img src="https://img.shields.io/badge/waiting-red" /> |
+
+</td></tr> </table>
 </div>
 
 This repository is just to write my line of thought while finding the flags.
