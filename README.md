@@ -8,7 +8,12 @@
 	<img src="https://img.shields.io/github/last-commit/jotavare/42-ctf?color=%2312bab9&style=flat-square" />
 </p>
 
-# STILL EDITING
+| INTRO | SCORE | STATUS |
+| :---: | :---: | :---: |
+| Ancient Crypto | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
+| My Little Pwn | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
+| Client Side | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
+| It's all here | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
 
 This repository is just to write my line of thought while finding the flags.
 Use it as a way to know more and not just simply put the answer.
