@@ -12,8 +12,10 @@
 ## ABOUT
 
 ## CTF
-
 <div align="center">
+<table>
+<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><td>
 
 | INTRO | SCORE | STATUS |
 | :---: | :---: | :---: |
@@ -21,6 +23,18 @@
 | My Little Pwn | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
 | Client Side | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
 | It's all here | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
+
+</td><td>
+
+| INTRO | SCORE | STATUS |
+| :---: | :---: | :---: |
+| Ancient Crypto | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
+| My Little Pwn | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
+| Client Side | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
+| It's all here | 5 Points | <img src="https://img.shields.io/badge/done-sucess" /> |
+
+</td></tr> </table>
+
 
 </div>
 
