@@ -28,8 +28,20 @@ We began checking the text and every character individually for any relevant pat
 
 Using this information, we used find and replace in all three characters (one by one and not the three at the same time) ┼¿¤ to CTF. Then, we began to decipher the rest of the flag. Some words started making sense, for example, the beginning of the phrases was two characters long, beginning with a "T," so it's probably a "To".
 
+Here are some examples::
 
-
+| Find  | Replace |
+| :--:  | :--:    |
+| ┼           | C           |
+| ¿           | T           |
+| ¤           | F           |
+| T±          | TO          |
+| T¥║         |	THE         |
+| TE§T        | TEST        |
+| THE£E       |	THERE       |
+| █EFORE      |	BEFORE      |
+| EFF╗C╗E╝T   |	EFFICIENT   |
+| R╣BBIT-HO╬E |	RABBIT-HOLE |
 
 
 
