@@ -73,15 +73,14 @@ Use it as a way to know more and not just simply put the answer.
 
 <div align="center">
 <table>
-<tr><th>MISC</th><th>OSINT</th></tr>
+<tr><th>STEGANO</th><th>OSINT</th></tr>
 <tr><td>
 
 | CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
-| Dorkside		| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
-| Force brute		| 20 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Smiley		| 50 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Safe computation	| 135 | <img src="https://img.shields.io/badge/waiting-red" /> |
+|  Weird_song		| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Point par point	| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Conspiracy Theory	| 75	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
 </td><td>
 
@@ -96,7 +95,7 @@ Use it as a way to know more and not just simply put the answer.
 
 <div align="center">
 <table>
-<tr><th>PWN</th><th>STEGANO</th></tr>
+<tr><th>PWN</th><th>MISC</th></tr>
 <tr><td>
 
 | CTF | SCORE | STATUS |
@@ -111,12 +110,44 @@ Use it as a way to know more and not just simply put the answer.
 
 | CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
-|  Weird_song		| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| Point par point	| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| Conspiracy Theory	| 75	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Dorkside		| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
+| Force brute		| 20 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Smiley		| 50 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Safe computation	| 135 | <img src="https://img.shields.io/badge/waiting-red" /> |
 
 </td></tr> </table>
 </div>
+
+<div align="center">
+<table>
+<tr><th>REVERSE</th><th>REVERSE</th></tr>
+<tr><td>
+
+| CTF | SCORE | STATUS |
+| :--- | :---: | :---: |
+| Easy Peasy Lemon Squezzy	| 5   | <img src="https://img.shields.io/badge/done-sucess" /> |
+| Come on!			| 5   | <img src="https://img.shields.io/badge/waiting-red" /> |
+| F5 not allowed		| 5   | <img src="https://img.shields.io/badge/waiting-red" /> |
+| In stack we trust		| 10  | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Some weird magic		| 25  | <img src="https://img.shields.io/badge/waiting-red" /> |
+| d8obfuscate 1			| 35  | <img src="https://img.shields.io/badge/waiting-red" /> |
+| d8obfuscate 2			| 60  | <img src="https://img.shields.io/badge/waiting-red" /> |
+
+</td><td>
+
+| CTF | SCORE | STATUS |
+| :--- | :---: | :---: |
+| ARMored			| 65  | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Another weird magic		| 65  | <img src="https://img.shields.io/badge/waiting-red" /> |
+| 42CTF Secure Vault		| 80  | <img src="https://img.shields.io/badge/waiting-red" /> |
+| vwv				| 85  | <img src="https://img.shields.io/badge/waiting-red" /> |
+| An oversight			| 85  | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Skynout			| 120 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Oviraptor			| 155 | <img src="https://img.shields.io/badge/waiting-red" /> |
+
+</td></tr> </table>
+</div>
+
 
 
 
