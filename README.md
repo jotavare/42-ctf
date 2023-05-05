@@ -10,8 +10,7 @@
 </p>
 
 ## ABOUT
-This repository is just to write my line of thought while finding the flags.
-Use it as a way to know more and not just simply put the answer.
+This repository is meant for documenting my thought process while searching for the flags. It is not intended for simply providing the answers, but rather for learning and gaining a better understanding of the concepts involved. Therefore, I will use this space to explore different strategies, techniques, and ideas that could help me solve the problem at hand, with the ultimate goal of improving my knowledge and skills.
 
 ## CTF CHALLENGES
 <div align="center">
