@@ -9,10 +9,35 @@ Hint
 You need to put the flag inside 42CTF{} and to uppercase.
 ```
 
+## Introduction
+
+In this CTF challenge, we were given a text file named "cyphertext" which needed to be decrypted to obtain the flag. This document details the steps taken to decrypt the text file.
+
+## Permissions and File Analysis
+
+The first step was to give read, write, and execute permissions to the file using the command: `chmod 777 cyphertext`.
+
+We then proceeded to analyze the metadata and file properties using tools like `exiftool` but did not find any relevant information.
+
+## Encryption Attempt
+We opened the text file but couldn't make sense of the text at first, so we started using online tools like `Cyberchef` and `dcode` to try various encryption formats like `base64`, `base32`, rotating many times and some tools that automatically translate to various formats, but we had no luck.
+
+## Character Analysis
+
+We began checking the text and every character individually for any relevant patterns or info. At the end of the file, we found a line that read `42┼¿¤{®±_╝±¿_╔═║_©±╝±╣╬Ø¥╣█║¿╗┼_═╔█═¿╗¿╔¿╗±╝}`. We suspected it to be the flag and realized that after 42, there were three letters CTF.
+
+Using this information, we used find and replace in all three characters (one by one and not the three at the same time) ┼¿¤ to CTF. Then, we began to decipher the rest of the flag. Some words started making sense, for example, the beginning of the phrases was two characters long, beginning with a "T," so it's probably a "To".
+
+
+
+
+
+
+
 I could download a text file caled "cyphertext". Click here to see.
 The first thing i do is give permissions to read, write and execute the file. `chmod 777 cyphertext`
 Then use tools like to exiftool to check the metadata and also the files proprities to see if theres any hidden info, but no relevant info was found.
-Open the text file but couldnt make sense of the text at first so i started using Cyberchef and dcode and tried some encryption formats like base42, base32, rotating many times and some tools that automaticly translate to various formats but no luck.
+Open the text file but couldnt make sense of the text at first so i started using Cyberchef and dcode and tried some encryption formats like `base64`, `base32`, rotating many times and some tools that automaticly translate to various formats but no luck.
 
 Started checking the text and every character individually for any relevant patterns or info, and voila, found it.
 At the end of the file there was this line `42┼¿¤{®±_╝±¿_╔═║_©±╝±╣╬Ø¥╣█║¿╗┼_═╔█═¿╗¿╔¿╗±╝}`
