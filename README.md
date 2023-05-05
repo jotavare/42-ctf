@@ -94,6 +94,31 @@ Use it as a way to know more and not just simply put the answer.
 </td></tr> </table>
 </div>
 
+<div align="center">
+<table>
+<tr><th>PWN</th><th>STEGANO</th></tr>
+<tr><td>
+
+| CTF | SCORE | STATUS |
+| :--- | :---: | :---: |
+| The Answer		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| GOTcha		| 40	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Stack leak		| 45	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Arbitrary leak	| 85	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Too RISCy		| 155	| <img src="https://img.shields.io/badge/waiting-red" /> |
+
+</td><td>
+
+| CTF | SCORE | STATUS |
+| :--- | :---: | :---: |
+|  Weird_song		| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Point par point	| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Conspiracy Theory	| 75	| <img src="https://img.shields.io/badge/waiting-red" /> |
+
+</td></tr> </table>
+</div>
+
+
 
 
 
