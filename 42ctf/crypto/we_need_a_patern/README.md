@@ -1,5 +1,4 @@
-# Crypto
-## We need a patern (5 points)
+# We need a patern
 
 ```
 We've intercepted a text encrypted with an unknown cipher.
