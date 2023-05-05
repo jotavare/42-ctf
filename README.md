@@ -21,19 +21,19 @@ Use it as a way to know more and not just simply put the answer.
 
 | CTF | POINTS | STATUS |
 | :--- | :---: | :---: |
-| Ancient Crypto	| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
-| My Little Pwn		| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
-| Client Side		| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
-| It's all here		| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
+| Ancient Crypto	| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| My Little Pwn		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| Client Side		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| It's all here		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
 
 </td><td>
 
 | CTF | POINTS | STATUS |
 | :--- | :---: | :---: |
-| l0st			| 10 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| s3cr3t m3ss4g3	| 35 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Ac1dBotn3t		| 70 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| APT 38		| 75 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| l0st			| 10	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| s3cr3t m3ss4g3	| 35	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Ac1dBotn3t		| 70	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| APT 38		| 75	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
 </td></tr> </table>
 </div>
@@ -45,28 +45,28 @@ Use it as a way to know more and not just simply put the answer.
 
 | CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
-| We need a pattern		| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
-| Vous n'avez pas les bases	| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
-| Very Short Crypto		| 25 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Triple word			| 70 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Identified author		| 80 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Recycling			| 85 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| To be xor not to be		| 85 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| The fault in our DES		| 90 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Contact support		| 115 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| We need a pattern		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| Vous n'avez pas les bases	| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| Very Short Crypto		| 25	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Triple word			| 70	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Identified author		| 80	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Recycling			| 85	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| To be xor not to be		| 85	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| The fault in our DES		| 90	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Contact support		| 115	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
 </td><td>
 
 | CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
-| Gallery			| 5 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Gallery v2			| 5 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Simple Question of Logic 1	| 5 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Silkway Anonymous Market v1	| 20 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Simple Question of Logic 2	| 40 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| ft_library			| 60 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Simple Question of Logic 3	| 65 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| The Tragic Token Tale		| 75 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Gallery			| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Gallery v2			| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Simple Question of Logic 1	| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Silkway Anonymous Market v1	| 20	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Simple Question of Logic 2	| 40	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| ft_library			| 60	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Simple Question of Logic 3	| 65	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| The Tragic Token Tale		| 75	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
 </td></tr> </table>
 </div>
@@ -86,9 +86,9 @@ Use it as a way to know more and not just simply put the answer.
 
 | CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
-| Norminet		| 5 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| h@ck3r5		| 20 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| gamer gf needed	| 65 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Norminet		| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| h@ck3r5		| 20	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| gamer gf needed	| 65	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
 </td></tr> </table>
 </div>
@@ -110,10 +110,10 @@ Use it as a way to know more and not just simply put the answer.
 
 | CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
-| Dorkside		| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
-| Force brute		| 20 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Smiley		| 50 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Safe computation	| 135 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Dorkside		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| Force brute		| 20	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Smiley		| 50	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Safe computation	| 135	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
 </td></tr> </table>
 </div>
@@ -125,38 +125,40 @@ Use it as a way to know more and not just simply put the answer.
 
 | CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
-| Easy Peasy Lemon Squezzy	| 5   | <img src="https://img.shields.io/badge/done-sucess" /> |
-| Come on!			| 5   | <img src="https://img.shields.io/badge/waiting-red" /> |
-| F5 not allowed		| 5   | <img src="https://img.shields.io/badge/waiting-red" /> |
-| In stack we trust		| 10  | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Some weird magic		| 25  | <img src="https://img.shields.io/badge/waiting-red" /> |
-| d8obfuscate 1			| 35  | <img src="https://img.shields.io/badge/waiting-red" /> |
-| d8obfuscate 2			| 60  | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Easy Peasy Lemon Squezzy	| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| Come on!			| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| F5 not allowed		| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| In stack we trust		| 10	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Some weird magic		| 25	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| d8obfuscate 1			| 35	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| d8obfuscate 2			| 60	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
 </td><td>
 
 | CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
-| ARMored			| 65  | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Another weird magic		| 65  | <img src="https://img.shields.io/badge/waiting-red" /> |
-| 42CTF Secure Vault		| 80  | <img src="https://img.shields.io/badge/waiting-red" /> |
-| vwv				| 85  | <img src="https://img.shields.io/badge/waiting-red" /> |
-| An oversight			| 85  | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Skynout			| 120 | <img src="https://img.shields.io/badge/waiting-red" /> |
-| Oviraptor			| 155 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| ARMored			| 65	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Another weird magic		| 65	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| 42CTF Secure Vault		| 80	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| vwv				| 85	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| An oversight			| 85	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Skynout			| 120	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Oviraptor			| 155	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
 </td></tr> </table>
 </div>
 
+<div align="center">
+<table>
+<tr><th>TREASURE HUNT</th>
+<tr><td>
 
+| CTF | SCORE | STATUS |
+| :--- | :---: | :---: |
+| Norm Error			| 70	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
-
-
-
-
-
-
-
+</td></tr> </table>
+</div>
 
 #### Crypto
 ###### We need a patern (5 points)
