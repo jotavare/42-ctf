@@ -10,15 +10,12 @@ You need to put the flag inside 42CTF{} and to uppercase.
 ```
 
 ## Introduction
-
 </br>In this CTF challenge, we were given a text file named "cyphertext" which needed to be decrypted to obtain the flag.
-</br>This document details the steps taken to decrypt the text file.
+</br>This document details the steps taken to decrypt the text file and my line of thought.
 
 ## Permissions and File Analysis
-
-The first step was to give read, write, and execute permissions to the file using the command: `chmod 777 cyphertext`.
-
-We then proceeded to analyze the metadata and file properties using tools like `exiftool` but did not find any relevant information.
+</br>The first step was to give read, write, and execute permissions to the file using the command: `chmod 777 cyphertext`.
+</br>We then proceeded to analyze the metadata and file properties using tools like `exiftool` but did not find any relevant information.
 
 ## Encryption Attempt
 We opened the text file but couldn't make sense of the text at first, so we started using online tools like `Cyberchef` and `dcode` to try various encryption formats like `base64`, `base32`, rotating many times and some tools that automatically translate to various formats, but we had no luck.
