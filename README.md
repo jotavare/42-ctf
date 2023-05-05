@@ -16,7 +16,7 @@ Use it as a way to know more and not just simply put the answer.
 ## CTF
 <div align="center">
 <table>
-<tr><th>INTRO</th><th>FORENSIC</th></tr>
+<tr><th>INTRO</th><th>MISC</th></tr>
 <tr><td>
 
 | CTF | POINTS | STATUS |
@@ -28,12 +28,89 @@ Use it as a way to know more and not just simply put the answer.
 
 </td><td>
 
+| CTF | SCORE | STATUS |
+| :--- | :---: | :---: |
+| Dorkside		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| Force brute		| 20	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Smiley		| 50	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Safe computation	| 135	| <img src="https://img.shields.io/badge/waiting-red" /> |
+
+</td></tr> </table>
+</div>
+
+<div align="center">
+<table>
+<tr><th>PWN</th><th>FORENSIC</th></tr>
+<tr><td>
+
+| CTF | SCORE | STATUS |
+| :--- | :---: | :---: |
+| The Answer		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| GOTcha		| 40	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Stack leak		| 45	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Arbitrary leak	| 85	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Too RISCy		| 155	| <img src="https://img.shields.io/badge/waiting-red" /> |
+
+</td><td>
+
 | CTF | POINTS | STATUS |
 | :--- | :---: | :---: |
 | l0st			| 10	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | s3cr3t m3ss4g3	| 35	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | Ac1dBotn3t		| 70	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | APT 38		| 75	| <img src="https://img.shields.io/badge/waiting-red" /> |
+
+</td></tr> </table>
+</div>
+
+<div align="center">
+<table>
+<tr><th>STEGANO</th><th>OSINT</th></tr>
+<tr><td>
+
+| CTF | SCORE | STATUS |
+| :--- | :---: | :---: |
+| Weird_song		| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Point par point	| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Conspiracy Theory	| 75	| <img src="https://img.shields.io/badge/waiting-red" /> |
+
+</td><td>
+
+| CTF | SCORE | STATUS |
+| :--- | :---: | :---: |
+| Norminet		| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| h@ck3r5		| 20	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| gamer gf needed	| 65	| <img src="https://img.shields.io/badge/waiting-red" /> |
+
+</td></tr> </table>
+</div>
+
+<div align="center">
+<table>
+<tr><th>REVERSE</th><th>REVERSE</th></tr>
+<tr><td>
+
+| CTF | SCORE | STATUS |
+| :--- | :---: | :---: |
+| Easy Peasy Lemon Squezzy	| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| Come on!			| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| F5 not allowed		| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| In stack we trust		| 10	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Some weird magic		| 25	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| d8obfuscate 1			| 35	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| d8obfuscate 2			| 60	| <img src="https://img.shields.io/badge/waiting-red" /> |
+
+</td><td>
+
+| CTF | SCORE | STATUS |
+| :--- | :---: | :---: |
+| ARMored			| 65	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Another weird magic		| 65	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| 42CTF Secure Vault		| 80	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| vwv				| 85	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| An oversight			| 85	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Skynout			| 120	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Oviraptor			| 155	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
 </td></tr> </table>
 </div>
@@ -67,83 +144,6 @@ Use it as a way to know more and not just simply put the answer.
 | ft_library			| 60	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | Simple Question of Logic 3	| 65	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | The Tragic Token Tale		| 75	| <img src="https://img.shields.io/badge/waiting-red" /> |
-
-</td></tr> </table>
-</div>
-
-<div align="center">
-<table>
-<tr><th>STEGANO</th><th>OSINT</th></tr>
-<tr><td>
-
-| CTF | SCORE | STATUS |
-| :--- | :---: | :---: |
-|  Weird_song		| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| Point par point	| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| Conspiracy Theory	| 75	| <img src="https://img.shields.io/badge/waiting-red" /> |
-
-</td><td>
-
-| CTF | SCORE | STATUS |
-| :--- | :---: | :---: |
-| Norminet		| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| h@ck3r5		| 20	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| gamer gf needed	| 65	| <img src="https://img.shields.io/badge/waiting-red" /> |
-
-</td></tr> </table>
-</div>
-
-<div align="center">
-<table>
-<tr><th>PWN</th><th>MISC</th></tr>
-<tr><td>
-
-| CTF | SCORE | STATUS |
-| :--- | :---: | :---: |
-| The Answer		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
-| GOTcha		| 40	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| Stack leak		| 45	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| Arbitrary leak	| 85	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| Too RISCy		| 155	| <img src="https://img.shields.io/badge/waiting-red" /> |
-
-</td><td>
-
-| CTF | SCORE | STATUS |
-| :--- | :---: | :---: |
-| Dorkside		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
-| Force brute		| 20	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| Smiley		| 50	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| Safe computation	| 135	| <img src="https://img.shields.io/badge/waiting-red" /> |
-
-</td></tr> </table>
-</div>
-
-<div align="center">
-<table>
-<tr><th>REVERSE</th><th>REVERSE</th></tr>
-<tr><td>
-
-| CTF | SCORE | STATUS |
-| :--- | :---: | :---: |
-| Easy Peasy Lemon Squezzy	| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
-| Come on!			| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| F5 not allowed		| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| In stack we trust		| 10	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| Some weird magic		| 25	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| d8obfuscate 1			| 35	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| d8obfuscate 2			| 60	| <img src="https://img.shields.io/badge/waiting-red" /> |
-
-</td><td>
-
-| CTF | SCORE | STATUS |
-| :--- | :---: | :---: |
-| ARMored			| 65	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| Another weird magic		| 65	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| 42CTF Secure Vault		| 80	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| vwv				| 85	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| An oversight			| 85	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| Skynout			| 120	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| Oviraptor			| 155	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
 </td></tr> </table>
 </div>
