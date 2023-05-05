@@ -10,6 +10,8 @@
 </p>
 
 ## ABOUT
+This repository is just to write my line of thought while finding the flags.
+Use it as a way to know more and not just simply put the answer.
 
 ## CTF
 <div align="center">
@@ -69,8 +71,36 @@
 </td></tr> </table>
 </div>
 
-This repository is just to write my line of thought while finding the flags.
-Use it as a way to know more and not just simply put the answer.
+<div align="center">
+<table>
+<tr><th>MISC</th><th>OSINT</th></tr>
+<tr><td>
+
+| CTF | SCORE | STATUS |
+| :--- | :---: | :---: |
+| Dorkside		| 5 | <img src="https://img.shields.io/badge/done-sucess" /> |
+| Force brute		| 20 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Smiley		| 50 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| Safe computation	| 135 | <img src="https://img.shields.io/badge/waiting-red" /> |
+
+</td><td>
+
+| CTF | SCORE | STATUS |
+| :--- | :---: | :---: |
+| Norminet		| 5 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| h@ck3r5		| 20 | <img src="https://img.shields.io/badge/waiting-red" /> |
+| gamer gf needed	| 65 | <img src="https://img.shields.io/badge/waiting-red" /> |
+
+</td></tr> </table>
+</div>
+
+
+
+
+
+
+
+
 
 #### Crypto
 ###### We need a patern (5 points)
