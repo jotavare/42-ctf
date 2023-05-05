@@ -11,7 +11,8 @@ You need to put the flag inside 42CTF{} and to uppercase.
 
 ## Introduction
 
-In this CTF challenge, we were given a text file named "cyphertext" which needed to be decrypted to obtain the flag. This document details the steps taken to decrypt the text file.
+</br>In this CTF challenge, we were given a text file named "cyphertext" which needed to be decrypted to obtain the flag.
+</br>This document details the steps taken to decrypt the text file.
 
 ## Permissions and File Analysis
 
