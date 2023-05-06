@@ -47,39 +47,53 @@ The first chapter of Alice in the Wonderland and the flag was `42CTF{DO_NOT_USE_
 ## Frequency Analysis
 At the beggining of the already decyphered text there was this quote - "TO PERFORM A EFFICIENT FREQUENCY ANALYSIS, YOU NEED A QUITE LONG TEST".
 
-```
-Frequency analysis is the study of the distribution (and count) of the letters in a text. Analysis of frequencies helps cryptanalysis and decrypting substitution-based ciphers using the fact that some letters apparitions are varying in a given language: in english, letters E, T or A are common while Z or Q are rare.
-```
+From [dCode](https://www.dcode.fr/frequency-analysis):
 
-English
-E	12.7 %	M	2.4 %
-T	9.1 %	W	2.4 %
-A	8.2 %	F	2.2 %
-O	7.5 %	G	2.0 %
-I	7.0 %	Y	2.0 %
-N	6.7 %	P	1.9 %
-S	6.3 %	B	1.5 %
-H	6.1 %	V	1.0 %
-R	6.0 %	K	0.8 %
-L	4.0 %	J	0.2 %
-D	4.3 %	X	0.2 %
-C	2.8 %	Q	0.1 %
-U	2.8 %	Z	0.1 %
+> What is frequency analysis?
 
-french
-E	17.3 %	P	3.0 %
-A	8.4 %	G	1.3 %
-S	8.1 %	V	1.3 %
-I	7.3 %	B	1.1 %
-N	7.1 %	F	1.1 %
-T	7.1 %	Q	1.0 %
-R	6.6 %	H	0.9 %
-L	6.0 %	X	0.4 %
-U	5.7 %	J	0.3 %
-O	5.3 %	Y	0.3 %
-D	4.2 %	K	0.1 %
-C	3.0 %	W	0.1 %
-M	3.0 %	Z	0.1 %
+> Frequency analysis is the study of the distribution (and count) of the letters in a text. Analysis of frequencies helps cryptanalysis and decrypting substitution-based ciphers using the fact that some letters apparitions are varying in a given language: in english, letters E, T or A are common while Z or Q are rare.
+
+<div>
+<table>
+<tr><th>ENGLISH</th><th>FRENCH</th></tr>
+<tr><td>
+
+| ALPHABET |  |
+| :--- | :--- |
+| E -	12.7 %  | M -	2.4 % |
+| T -	9.1 %   | W -	2.4 % |
+| A -	8.2 %   | F -	2.2 % |
+| O -	7.5 %   | G -	2.0 % |
+| I -	7.0 %   | Y -	2.0 % |
+| N -	6.7 %   | P -	1.9 % |
+| S -	6.3 %   | B -	1.5 % |
+| H -	6.1 %   | V -	1.0 % |
+| R -	6.0 %   | K -	0.8 % |
+| L -	4.0 %   | J -	0.2 % |
+| D -	4.3 %   | X -	0.2 % |
+| C -	2.8 %   | Q -	0.1 % |
+| U -	2.8 %   | Z -	0.1 % |
+
+</td><td>
+
+| ALPHABET |  |
+| :--- | :--- |
+| E - 17.3 %  | P	3.0 % |
+| A -	8.4 %   | G	1.3 % |
+| S -	8.1 %   | V	1.3 % |
+| I -	7.3 %   | B	1.1 % |
+| N -	7.1 %   | F	1.1 % |
+| T -	7.1 %   | Q	1.0 % |
+| R -	6.6 %   | H	0.9 % |
+| L -	6.0 %   | X	0.4 % |
+| U -	5.7 %   | J	0.3 % |
+| O -	5.3 %   | Y	0.3 % |
+| D -	4.2 %   | K	0.1 % |
+| C -	3.0 %   | W	0.1 % |
+| M -	3.0 %   | Z	0.1 % |
+
+</td></tr> </table>
+</div>
 
 Frequency analysis is less relevant when the message has been encrypted with polyalphabetic encryption (which tends to randomize the frequency of the letters), or when the encryption is homophonic (several different encrypted characters for the same plain letter) or polygrammic (groups of characters replace each letter). In these cases, the analysis does not allow a decoding but allows to filter or find the type of encryption used.
 
