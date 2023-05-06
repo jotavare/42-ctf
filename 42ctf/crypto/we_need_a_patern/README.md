@@ -10,18 +10,17 @@ You need to put the flag inside 42CTF{} and to uppercase.
 ```
 
 ## Introduction
-  In this CTF challenge, we were given a text file named "cyphertext" which needed to be decrypted to obtain the flag.
-  </br>This document details the steps taken to decrypt the text file and my line of thought.
+In this CTF challenge, we were given a text file named "cyphertext" which needed to be decrypted to obtain the flag.
+</br>This document details the steps taken to decrypt the text file and my line of thought.
 
 ## Permissions and File Analysis
-  The first step was to give read, write, and execute permissions to the file using the command: `chmod 777 cyphertext`.
-  </br>I then proceeded to analyze the metadata and file properties using tools like `exiftool` but did not find any relevant information.
+The first step was to give read, write, and execute permissions to the file using the command: `chmod 777 cyphertext`.
+</br>I then proceeded to analyze the metadata and file properties using tools like `exiftool` but did not find any relevant information.
 
 ## Encryption Attempt
-Tried openening the text file but couldn't make sense of the text at first, so I started using online tools like `Cyberchef` and `dcode` to try various encryption formats like `base64`, `base32`, rotating many times and some tools that automatically translate to various formats, but had no luck.
+Tried openening the text file but couldn't make sense of the text at first, so I started using online tools like [Cyberchef](https://gchq.github.io/CyberChef) and [dCode](https://www.dcode.fr/en) to try various encryption formats like `base64`, `base32`, `rot` and some tools that automatically try various formats, but had no luck.
 
 ## Character Analysis
-
 We began checking the text and every character individually for any relevant patterns or info. At the end of the file, we found a line that read `42┼¿¤{®±_╝±¿_╔═║_©±╝±╣╬Ø¥╣█║¿╗┼_═╔█═¿╗¿╔¿╗±╝}`. We suspected it to be the flag and realized that after 42, there were three letters CTF.
 
 Using this information, we used find and replace in all three characters (one by one and not the three at the same time) ┼¿¤ to CTF. Then, we began to decipher the rest of the flag. Some words started making sense, for example, the beginning of the phrases was two characters long, beginning with a "T," so it's probably a "To".
@@ -41,40 +40,16 @@ Here are some examples::
 | EFF╗C╗E╝T   |	EFFICIENT   |
 | R╣BBIT-HO╬E |	RABBIT-HOLE |
 
-
-
-
-I could download a text file caled "cyphertext". Click here to see.
-The first thing i do is give permissions to read, write and execute the file. `chmod 777 cyphertext`
-Then use tools like to exiftool to check the metadata and also the files proprities to see if theres any hidden info, but no relevant info was found.
-Open the text file but couldnt make sense of the text at first so i started using Cyberchef and dcode and tried some encryption formats like `base64`, `base32`, rotating many times and some tools that automaticly translate to various formats but no luck.
-
-Started checking the text and every character individually for any relevant patterns or info, and voila, found it.
-At the end of the file there was this line `42┼¿¤{®±_╝±¿_╔═║_©±╝±╣╬Ø¥╣█║¿╗┼_═╔█═¿╗¿╔¿╗±╝}`
-That must be the flag and even tho we still cant make sense of the content inside of the flag, we know that after 42 therest 3 letters CTF.
-With that information i used find and replace in all 3 characters (one by one and not the three at the same time) ┼¿¤ to CTF.
-Then some words started making sense, for example the begging of the phrases some were 2 characters lenght begging with a "T", so its probably a "To".
-
-Here are some examples, each find would help me find bigger words:
-┼ -> C
-¿ -> T
-¤ -> F
-T± -> TO
-T¥║ -> THE
-TE§T -> TEST
-THE£E -> THERE
-█EFORE -> BEFORE
-EFF╗C╗E╝T -> EFFICIENT
-R╣BBIT-HO╬E -> RABBIT-HOLE
-
 So at this stage we already have decyphered the letters C,T,F,O,H,E,S,R,B,I,N,A and L.
 Eventually i decyphered all the letters and the result was:
-The first chapter of Alice in the Wonderland.
+The first chapter of Alice in the Wonderland and the flag was `42CTF{DO_NOT_USE_MONOALPHABETIC_SUBSTITUTION}`.
 
-but there was a importante information in the text
-TO PERFORM A EFFICIENT FREQUENCY ANALYSIS, YOU NEED A QUITE LONG TEST.
+## Frequency Analysis
+At the beggining of the already decyphered text there was this quote - "TO PERFORM A EFFICIENT FREQUENCY ANALYSIS, YOU NEED A QUITE LONG TEST".
 
+```
 Frequency analysis is the study of the distribution (and count) of the letters in a text. Analysis of frequencies helps cryptanalysis and decrypting substitution-based ciphers using the fact that some letters apparitions are varying in a given language: in english, letters E, T or A are common while Z or Q are rare.
+```
 
 English
 E	12.7 %	M	2.4 %
