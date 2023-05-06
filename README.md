@@ -119,7 +119,7 @@ This repository is meant for documenting my thought process while searching for 
 
 | CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
-| We need a pattern		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| [We need a pattern](https://github.com/jotavare/42-ctf/tree/main/42ctf/crypto/we_need_a_patern) | 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
 | Vous n'avez pas les bases	| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
 | Very Short Crypto		| 25	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | Triple word			| 70	| <img src="https://img.shields.io/badge/waiting-red" /> |
