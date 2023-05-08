@@ -93,10 +93,13 @@ From [dCode](https://www.dcode.fr/frequency-analysis):
 </td></tr> </table>
 </div>
 
-Frequency analysis is less relevant when the message has been encrypted with polyalphabetic encryption (which tends to randomize the frequency of the letters), or when the encryption is homophonic (several different encrypted characters for the same plain letter) or polygrammic (groups of characters replace each letter). In these cases, the analysis does not allow a decoding but allows to filter or find the type of encryption used.
+> When frequency analysis is useless?
+
+> Frequency analysis is less relevant when the message has been encrypted with polyalphabetic encryption (which tends to randomize the frequency of the letters), or when the encryption is homophonic (several different encrypted characters for the same plain letter) or polygrammic (groups of characters replace each letter). In these cases, the analysis does not allow a decoding but allows to filter or find the type of encryption used.
 
 It may not be usefull now but in the future is sure something i should try first to understand if i can get any info.
 
-Another important info, the text in the flag 42CTF{DO_NOT_USE_MONOALPHABETIC_SUBSTITUTION}
+## Mono-alphabetical Substitution
+Another important info is the text in the flag: `42CTF{DO_NOT_USE_MONOALPHABETIC_SUBSTITUTION}`.
 
-A mono-alphabetic cipher (aka simple substitution cipher) is a substitution cipher where each letter of the plain text is replaced with another letter of the alphabet. It uses a fixed key which consist of the 26 letters of a “shuffled alphabet”.
+> A mono-alphabetic cipher (aka simple substitution cipher) is a substitution cipher where each letter of the plain text is replaced with another letter of the alphabet. It uses a fixed key which consist of the 26 letters of a “shuffled alphabet”.
