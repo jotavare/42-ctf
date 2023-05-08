@@ -23,7 +23,7 @@ Tried openening the text file but couldn't make sense of the text at first, so I
 ## Character Analysis
 We began checking the text and every character individually for any relevant patterns or info. At the end of the file, we found a line that read `42┼¿¤{®±_╝±¿_╔═║_©±╝±╣╬Ø¥╣█║¿╗┼_═╔█═¿╗¿╔¿╗±╝}`. We suspected it to be the flag and realized that after 42, there were three letters CTF.
 
-Using this information, we used find and replace in all three characters (one by one and not the three at the same time) ┼¿¤ to CTF. Then, we began to decipher the rest of the flag. Some words started making sense, for example, the beginning of the phrases was two characters long, beginning with a "T," so it's probably a "To".
+Using this information, we used find and replace in all three characters (one by one and not the three at the same time) `┼¿¤` to `CTF`. Then, we began to decipher the rest of the flag. Some words started making sense, for example, the beginning of the phrases was two characters long, beginning with a `T`, so it's probably a `To`.
 
 Here are some examples::
 
@@ -51,12 +51,13 @@ Here are some examples::
 </td></tr> </table>
 </div>
 
-So at this stage we already have decyphered the letters C,T,F,O,H,E,S,R,B,I,N,A and L.
+So at this stage we already have decyphered the letters `C`,`T`,`F`,`O`,`H`,`E`,`S`,`R`,`B`,`I`,`N`,`A` and `L`.
 Eventually i decyphered all the letters and the result was:
 The first chapter of Alice in the Wonderland and the flag was `42CTF{DO_NOT_USE_MONOALPHABETIC_SUBSTITUTION}`.
 
 ## Frequency Analysis
-At the beggining of the already decyphered text there was this quote - "TO PERFORM A EFFICIENT FREQUENCY ANALYSIS, YOU NEED A QUITE LONG TEST".
+At the beggining of the already decyphered text there was this quote:
+> "TO PERFORM A EFFICIENT FREQUENCY ANALYSIS, YOU NEED A QUITE LONG TEST".
 
 From [dCode](https://www.dcode.fr/frequency-analysis):
 
