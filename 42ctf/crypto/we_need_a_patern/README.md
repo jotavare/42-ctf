@@ -10,7 +10,7 @@ You need to put the flag inside 42CTF{} and to uppercase.
 ```
 
 ## Introduction
-In this CTF challenge, we were given a text file named "cyphertext" which needed to be decrypted to obtain the flag.
+In this CTF challenge, i was given a text file named "cyphertext" which needed to be decrypted to obtain the flag.
 </br>This document details the steps taken to decrypt the text file and my line of thought.
 
 ## Permissions and File Analysis
@@ -21,9 +21,10 @@ The first step was to give read, write, and execute permissions to the file usin
 Tried openening the text file but couldn't make sense of the text at first, so I started using online tools like [Cyberchef](https://gchq.github.io/CyberChef) and [dCode](https://www.dcode.fr/en) to try various encryption formats like `base64`, `base32`, `rot` and some tools that automatically try various formats, but had no luck.
 
 ## Character Analysis
-We began checking the text and every character individually for any relevant patterns or info. At the end of the file, we found a line that read `42┼¿¤{®±_╝±¿_╔═║_©±╝±╣╬Ø¥╣█║¿╗┼_═╔█═¿╗¿╔¿╗±╝}`. We suspected it to be the flag and realized that after 42, there were three letters CTF.
+I began checking the text and every character individually for any relevant patterns or info. At the end of the file, i found a line that read `42┼¿¤{®±_╝±¿_╔═║_©±╝±╣╬Ø¥╣█║¿╗┼_═╔█═¿╗¿╔¿╗±╝}`. I suspected it to be the flag and realized that after 42, there were three letters CTF.
 
-Using this information, we used find and replace in all three characters (one by one and not the three at the same time) `┼¿¤` to `CTF`. Then, we began to decipher the rest of the flag. Some words started making sense, for example, the beginning of the phrases was two characters long, beginning with a `T`, so it's probably a `To`.
+Using this information, i used find and replace in all three characters (one by one and not the three at the same time) `┼¿¤` to `CTF`.
+</br>Then, i began to decipher the rest of the flag. Some words started making sense, for example, the beginning of the phrases was two characters long, beginning with a `T`, so it's probably a `To`.
 
 Here are some examples::
 
@@ -33,7 +34,7 @@ Here are some examples::
 <tr><td>
 
 | ┼               | C               |
-| :--            | :--            |
+| :--							| :--							|
 | __¿__           | __T__           |
 | __¤__           | __F__           |
 | __T±__          | __TO__          |
@@ -42,7 +43,7 @@ Here are some examples::
 </td><td>
 
 | TE§T            | TEST            |
-| :--            | :--            |
+| :--							| :--							|
 | __THE£E__       |	__THERE__       |
 | __█EFORE__      |	__BEFORE__      |
 | __EFF╗C╗E╝T__   |	__EFFICIENT__   |
@@ -51,9 +52,9 @@ Here are some examples::
 </td></tr> </table>
 </div>
 
-So at this stage we already have decyphered the letters `C`,`T`,`F`,`O`,`H`,`E`,`S`,`R`,`B`,`I`,`N`,`A` and `L`.
-Eventually i decyphered all the letters and the result was:
-The first chapter of Alice in the Wonderland and the flag was `42CTF{DO_NOT_USE_MONOALPHABETIC_SUBSTITUTION}`.
+So at this stage i already have decyphered the letters `C`,`T`,`F`,`O`,`H`,`E`,`S`,`R`,`B`,`I`,`N`,`A` and `L`.
+</br>Eventually i decyphered all the letters and the result was:
+</br>The first chapter of Alice in the Wonderland and the flag was `42CTF{DO_NOT_USE_MONOALPHABETIC_SUBSTITUTION}`.
 
 ## Frequency Analysis
 At the beggining of the already decyphered text there was this quote:
