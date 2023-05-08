@@ -27,18 +27,29 @@ Using this information, we used find and replace in all three characters (one by
 
 Here are some examples::
 
-| Find  | Replace |
-| :--:  | :--:    |
-| ┼           | C           |
-| ¿           | T           |
-| ¤           | F           |
-| T±          | TO          |
-| T¥║         |	THE         |
-| TE§T        | TEST        |
-| THE£E       |	THERE       |
-| █EFORE      |	BEFORE      |
-| EFF╗C╗E╝T   |	EFFICIENT   |
-| R╣BBIT-HO╬E |	RABBIT-HOLE |
+<div>
+<table>
+<tr><th>FIND/REPLACE</th><th>FIND/REPLACE</th></tr>
+<tr><td>
+
+| ┼               | C               |
+| :--:            | :--:            |
+| __¿__           | __T__           |
+| __¤__           | __F__           |
+| __T±__          | __TO__          |
+| __T¥║__         |	__THE__         |
+
+</td><td>
+
+| TE§T            | TEST            |
+| :--:            | :--:            |
+| __THE£E__       |	__THERE__       |
+| __█EFORE__      |	__BEFORE__      |
+| __EFF╗C╗E╝T__   |	__EFFICIENT__   |
+| __R╣BBIT-HO╬E__ |	__RABBIT-HOLE__ |
+
+</td></tr> </table>
+</div>
 
 So at this stage we already have decyphered the letters C,T,F,O,H,E,S,R,B,I,N,A and L.
 Eventually i decyphered all the letters and the result was:
