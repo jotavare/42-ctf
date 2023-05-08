@@ -33,7 +33,7 @@ Here are some examples::
 <tr><td>
 
 | ┼               | C               |
-| :--:            | :--:            |
+| :--            | :--            |
 | __¿__           | __T__           |
 | __¤__           | __F__           |
 | __T±__          | __TO__          |
@@ -42,7 +42,7 @@ Here are some examples::
 </td><td>
 
 | TE§T            | TEST            |
-| :--:            | :--:            |
+| :--            | :--            |
 | __THE£E__       |	__THERE__       |
 | __█EFORE__      |	__BEFORE__      |
 | __EFF╗C╗E╝T__   |	__EFFICIENT__   |
@@ -71,7 +71,7 @@ From [dCode](https://www.dcode.fr/frequency-analysis):
 <tr><td>
 
 | __E -	12.7 %__  | __H -	6.1 %__ | __W -	2.4 %__ | __K -	0.8 %__ |
-| ---: | ---: | ---: | ---: |
+| :--- | :--- | :--- | :--- |
 | __T -	9.1 %__   | __R -	6.0 %__ | __F -	2.2 %__ | __J -	0.2 %__ |
 | __A -	8.2 %__   | __L -	4.0 %__ | __G -	2.0 %__ | __X -	0.2 %__ |
 | __O -	7.5 %__   | __D -	4.3 %__ | __Y -	2.0 %__ | __Q -	0.1 %__ |
@@ -82,7 +82,7 @@ From [dCode](https://www.dcode.fr/frequency-analysis):
 </td><td>
 
 | __E - 17.3 %__ |  __L -	6.0 %__ | __G - 1.3 %__ | __J - 0.3 %__ |
-| ---: | ---: | ---: | ---: |
+| :--- | :--- | :--- | :--- |
 | __A -	8.4 %__   | __U -	5.7 %__ | __V	- 1.3 %__ | __Y - 0.3 %__ |
 | __S -	8.1 %__   | __O -	5.3 %__ | __B	- 1.1 %__ | __K - 0.1 %__ |
 | __I -	7.3 %__   | __D -	4.2 %__ | __F	- 1.1 %__ | __W - 0.1 %__ |
@@ -102,4 +102,6 @@ It may not be usefull now but in the future is sure something i should try first
 ## Mono-alphabetical Substitution
 Another important info is the text in the flag: `42CTF{DO_NOT_USE_MONOALPHABETIC_SUBSTITUTION}`.
 
-> A mono-alphabetic cipher (aka simple substitution cipher) is a substitution cipher where each letter of the plain text is replaced with another letter of the alphabet. It uses a fixed key which consist of the 26 letters of a “shuffled alphabet”.
+> An alphabetic substitution is a substitution cipher where the letters of the alphabet are replaced by others according to a 1-1 correspondence (a plain letter always corresponds to the same cipher letter).
+
+> The substitution is said to be monoalphabetic because it uses only one alphabet, this alphabet is said to be disordered.
