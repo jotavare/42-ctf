@@ -144,7 +144,7 @@ This repository is meant for documenting my thought process while searching for 
 | Gallery			| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | Gallery v2			| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | Simple Question of Logic 1	| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
-| Silkway Anonymous Market	| 20	| <img src="https://img.shields.io/badge/waiting-red" /> |
+| Silkway Anonymous Market v1	| 20	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | Simple Question of Logic 2	| 40	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | ft_library			| 60	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | Simple Question of Logic 3	| 65	| <img src="https://img.shields.io/badge/waiting-red" /> |
