@@ -40,7 +40,8 @@ This repository is meant for documenting my thought process while searching for 
 | Smiley		| 50	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | Safe computation	| 135	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
-</td></tr> </table>
+</td></tr>
+</table>
 </div>
 
 <div align="center">
@@ -65,7 +66,8 @@ This repository is meant for documenting my thought process while searching for 
 | Ac1dBotn3t		| 70	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | APT 38		| 75	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
-</td></tr> </table>
+</td></tr>
+</table>
 </div>
 
 <div align="center">
@@ -87,7 +89,8 @@ This repository is meant for documenting my thought process while searching for 
 | h@ck3r5		| 20	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | gamer gf needed	| 65	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
-</td></tr> </table>
+</td></tr>
+</table>
 </div>
 
 <div align="center">
@@ -117,7 +120,8 @@ This repository is meant for documenting my thought process while searching for 
 | Skynout			| 120	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | Oviraptor			| 155	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
-</td></tr> </table>
+</td></tr>
+</table>
 </div>
 
 <div align="center">
@@ -150,7 +154,8 @@ This repository is meant for documenting my thought process while searching for 
 | Simple Question of Logic 3	| 65	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | The Tragic Token Tale		| 75	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
-</td></tr> </table>
+</td></tr>
+</table>
 </div>
 
 <div align="center">
@@ -162,5 +167,6 @@ This repository is meant for documenting my thought process while searching for 
 | :--- | :---: | :---: |
 | Norm Error			| 70	| <img src="https://img.shields.io/badge/waiting-red" /> |
 
-</td></tr> </table>
+</td></tr>
+</table>
 </div>
