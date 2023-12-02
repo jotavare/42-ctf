@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/ctf/ctf_banner.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/ctf/github_ctf_banner_capture_the_flag.png">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 ## ABOUT
-This repository is meant for documenting my thought process while searching for the flags. It is not intended for simply providing the answers, but rather for learning and gaining a better understanding of the concepts involved. Therefore, I will use this space to explore different strategies, techniques, and ideas that could help me solve the problem at hand, with the ultimate goal of improving my knowledge and skills.
+This repository is meant to document my thought process while searching for the flags. It is not intended for simply providing the answers, but rather for learning and gaining a better understanding of the concepts involved. Therefore, I will use this space to explore different strategies, techniques, and ideas that could help me solve the problem at hand, with the ultimate goal of improving my knowledge and skills.
 
 ## CTF CHALLENGES
 <div align="center">
@@ -100,7 +100,7 @@ This repository is meant for documenting my thought process while searching for 
 
 | CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
-| Easy Peasy Lemon Squezzy	| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| Easy Peasy Lemon Squeezy	| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
 | Come on!			| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | F5 not allowed		| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | In stack we trust		| 10	| <img src="https://img.shields.io/badge/waiting-red" /> |
