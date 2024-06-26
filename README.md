@@ -12,8 +12,8 @@
 <p align="center">
 	<a href="#about">About</a> •
 	<a href="#ctf-challenges">CTF Challenges</a> •
-	<a href="#about">Contributions</a> •
-	<a href="#about">License</a>
+	<a href="#contributing">Contributing</a> •
+	<a href="#license">License</a>
 </p>
 
 ## ABOUT
