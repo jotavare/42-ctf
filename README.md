@@ -16,9 +16,11 @@
 </p>
 
 ## ABOUT
-This repository is meant to document my thought process while searching for the flags. It is not intended for simply providing the answers, but rather for learning and gaining a better understanding of the concepts involved. Therefore, I will use this space to explore different strategies, techniques, and ideas that could help me solve the problem at hand, with the ultimate goal of improving my knowledge and skills.
+
+This repository documents my thought process while searching for the 42 CTF flags. It is not intended for simply providing the answers, but rather to learn and better understand the concepts involved. So, I'll be able to use this space to explore different strategies, techniques, and ideas that could help me solve the problem at hand, with the ultimate goal of improving my knowledge and skills.
 
 ## CTF CHALLENGES
+
 <div align="center">
 <table>
 <tr><th>INTRO</th><th>MISC</th></tr>
@@ -170,3 +172,11 @@ This repository is meant to document my thought process while searching for the 
 </td></tr>
 </table>
 </div>
+
+## CONTRIBUTING
+
+If you find any issues or have suggestions for improvements, feel free to fork the repository and open an issue or submit a pull request.
+
+## LICENSE
+
+This project is licensed under the MIT License. For more details, see the [LICENSE](https://github.com/jotavare/42-ctf/blob/main/LICENSE) file.
