@@ -18,7 +18,7 @@ The first step was to give read, write, and execute permissions to the file usin
 </br>I then proceeded to analyze the metadata and file properties using tools like `exiftool` but did not find any relevant information.
 
 ## Encryption Attempt
-Tried openening the text file but couldn't make sense of the text at first, so I started using online tools like [Cyberchef](https://gchq.github.io/CyberChef) and [dCode](https://www.dcode.fr/en) to try various encryption formats like `base64`, `base32`, `rot` and some tools that automatically try various formats, but had no luck.
+Tried opening the text file but couldn't make sense of the text at first, so I started using online tools like [Cyberchef](https://gchq.github.io/CyberChef) and [dCode](https://www.dcode.fr/en) to try various encryption formats like `base64`, `base32`, `rot` and some tools that automatically try various formats, but had no luck.
 
 ## Character Analysis
 I began checking the text and every character individually for any relevant patterns or info. At the end of the file, i found a line that read `42┼¿¤{®±_╝±¿_╔═║_©±╝±╣╬Ø¥╣█║¿╗┼_═╔█═¿╗¿╔¿╗±╝}`. I suspected it to be the flag and realized that after 42, there were three letters CTF.
@@ -52,12 +52,12 @@ Here are some examples::
 </td></tr> </table>
 </div>
 
-So at this stage i already have decyphered the letters `C`,`T`,`F`,`O`,`H`,`E`,`S`,`R`,`B`,`I`,`N`,`A` and `L`.
-</br>Eventually i decyphered all the letters and the result was:
+So at this stage i already have deciphered the letters `C`,`T`,`F`,`O`,`H`,`E`,`S`,`R`,`B`,`I`,`N`,`A` and `L`.
+</br>Eventually i deciphered all the letters and the result was:
 </br>The first chapter of Alice in the Wonderland and the flag was `42CTF{DO_NOT_USE_MONOALPHABETIC_SUBSTITUTION}`.
 
 ## Frequency Analysis
-At the beggining of the already decyphered text there was this quote:
+At the beginning of the already deciphered text there was this quote:
 > "TO PERFORM A EFFICIENT FREQUENCY ANALYSIS, YOU NEED A QUITE LONG TEST".
 
 From [dCode](https://www.dcode.fr/frequency-analysis):
@@ -98,7 +98,7 @@ From [dCode](https://www.dcode.fr/frequency-analysis):
 
 > Frequency analysis is less relevant when the message has been encrypted with polyalphabetic encryption (which tends to randomize the frequency of the letters), or when the encryption is homophonic (several different encrypted characters for the same plain letter) or polygrammic (groups of characters replace each letter). In these cases, the analysis does not allow a decoding but allows to filter or find the type of encryption used.
 
-It may not be usefull now but in the future is sure something i should try first to understand if i can get any info.
+It may not be useful now but in the future is sure something i should try first to understand if i can get any info.
 
 ## Mono-alphabetical Substitution
 Another important info is the text in the flag: `42CTF{DO_NOT_USE_MONOALPHABETIC_SUBSTITUTION}`.
