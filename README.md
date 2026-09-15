@@ -9,11 +9,6 @@
 	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
-<p align="center">
-	<a href="#about">About</a> •
-	<a href="#ctf-challenges">CTF Challenges</a>
-</p>
-
 ## ABOUT
 
 This repository documents my thought process while searching for the 42 CTF flags. It is not intended for simply providing the answers, but rather to learn and better understand the concepts involved. So, I'll be able to use this space to explore different strategies, techniques, and ideas that could help me solve the problem at hand, with the ultimate goal of improving my knowledge and skills.
