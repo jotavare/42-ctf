@@ -3,17 +3,15 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/status-ongoing-success?color=%2312bab9&style=flat-square" />
-	<img src="https://img.shields.io/github/last-commit/jotavare/42-resources?color=%2312bab9&style=flat-square" />
-	<a href='https://www.linkedin.com/in/joaoptoliveira' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+	<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square" />
+	<img src="https://img.shields.io/github/last-commit/jotavare/42-ctf?color=%2312bab9&style=flat-square" />
+	<a href='https://www.linkedin.com/in/jotavare' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-blue?style=flat-square'/></a>
 	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
 <p align="center">
 	<a href="#about">About</a> •
-	<a href="#ctf-challenges">CTF Challenges</a> •
-	<a href="#contributing">Contributing</a> •
-	<a href="#license">License</a>
+	<a href="#ctf-challenges">CTF Challenges</a>
 </p>
 
 ## ABOUT
@@ -29,16 +27,16 @@ This repository documents my thought process while searching for the 42 CTF flag
 
 | CTF | POINTS | STATUS |
 | :--- | :---: | :---: |
-| Ancient Crypto	| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
-| My Little Pwn		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
-| Client Side		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
-| It's all here		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| Ancient Crypto	| 5	| <img src="https://img.shields.io/badge/done-success" /> |
+| My Little Pwn		| 5	| <img src="https://img.shields.io/badge/done-success" /> |
+| Client Side		| 5	| <img src="https://img.shields.io/badge/done-success" /> |
+| It's all here		| 5	| <img src="https://img.shields.io/badge/done-success" /> |
 
 </td><td>
 
 | CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
-| Dorkside		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| Dorkside		| 5	| <img src="https://img.shields.io/badge/done-success" /> |
 | Force brute		| 20	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | Smiley		| 50	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | Safe computation	| 135	| <img src="https://img.shields.io/badge/waiting-red" /> |
@@ -54,7 +52,7 @@ This repository documents my thought process while searching for the 42 CTF flag
 
 | CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
-| The Answer		| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| The Answer		| 5	| <img src="https://img.shields.io/badge/done-success" /> |
 | GOTcha		| 40	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | Stack leak		| 45	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | Arbitrary leak	| 85	| <img src="https://img.shields.io/badge/waiting-red" /> |
@@ -103,7 +101,7 @@ This repository documents my thought process while searching for the 42 CTF flag
 
 | CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
-| Easy Peasy Lemon Squeezy	| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| Easy Peasy Lemon Squeezy	| 5	| <img src="https://img.shields.io/badge/done-success" /> |
 | Come on!			| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | F5 not allowed		| 5	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | In stack we trust		| 10	| <img src="https://img.shields.io/badge/waiting-red" /> |
@@ -134,8 +132,8 @@ This repository documents my thought process while searching for the 42 CTF flag
 
 | CTF | SCORE | STATUS |
 | :--- | :---: | :---: |
-| [We need a pattern](https://github.com/jotavare/42-ctf/tree/main/42ctf/crypto/we_need_a_patern) | 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
-| Vous n'avez pas les bases	| 5	| <img src="https://img.shields.io/badge/done-sucess" /> |
+| [We need a pattern](https://github.com/jotavare/42-ctf/tree/main/42ctf/crypto/we_need_a_patern) | 5	| <img src="https://img.shields.io/badge/done-success" /> |
+| Vous n'avez pas les bases	| 5	| <img src="https://img.shields.io/badge/done-success" /> |
 | Very Short Crypto		| 25	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | Triple word			| 70	| <img src="https://img.shields.io/badge/waiting-red" /> |
 | Identified author		| 80	| <img src="https://img.shields.io/badge/waiting-red" /> |
@@ -173,11 +171,3 @@ This repository documents my thought process while searching for the 42 CTF flag
 </td></tr>
 </table>
 </div>
-
-## CONTRIBUTING
-
-If you find any issues or have suggestions for improvements, feel free to fork the repository and open an issue or submit a pull request.
-
-## LICENSE
-
-This project is available under the MIT License. For further details, please refer to the [LICENSE](https://github.com/jotavare/42-ctf/blob/main/LICENSE) file.
